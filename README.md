@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pilegal.png" alt="PiLegal Logo" width="150"/>
+  <img src="pilegal_logo.png" alt="PiLegal Logo" width="150"/>
   
   # 🔍 PiLegal
   ### Free Knowledge Encyclopedia for Everyone
@@ -2369,3 +2369,4 @@ python server.py
 ---
 
 [⬆️ Back to top](#-pilegal)
+
