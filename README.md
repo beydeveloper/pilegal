@@ -12,7 +12,7 @@
   
   **4.1+ Million articles** - Comprehensive knowledge base
   
-  [Demo](http://localhost:5000) • [Installation](#-quick-start) • [API](#-api-documentation) • [Contribute](#-contributing)
+  [Data Download](https://github.com/beydeveloper/pilegal/releases/download/data/pilegal_data_v1.zip) • [Installation](#-quick-start) • [API](#-api-documentation) • [Contribute](#-contributing)
 </div>
 
 ---
@@ -2369,4 +2369,5 @@ python server.py
 ---
 
 [⬆️ Back to top](#-pilegal)
+
 
