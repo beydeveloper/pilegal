@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 PiLegal Data V1
+#  PiLegal Data V1
 
 ### 🚀 AI Training Dataset Platform
 
@@ -220,3 +220,4 @@ python server.py
 ### 💫 Made with ❤️ by [beydeveloper](https://github.com/beydeveloper)
 
 </div>
+
