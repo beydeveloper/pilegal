@@ -12,7 +12,7 @@
   
   **4.1+ Million articles** - Comprehensive knowledge base
   
-  [Data Download](https://github.com/beydeveloper/pilegal/releases/download/data/pilegal_data_v1.zip) • [Installation](#-quick-start) • [API](#-api-documentation) • [Contribute](#-contributing)
+  [Demo](http://localhost:5000) • [Installation](#-quick-start) • [API](#-api-documentation) • [Contribute](#-contributing)
 </div>
 
 ---
@@ -79,7 +79,20 @@ pip install -r requirements.txt
 
 3. **Download the data file**
 
-Download `pilegal_data_v1.jsonl` (3.92 GB) from [Releases](https://github.com/beydeveloper/pilegal/releases) and place it in the project root.
+Download `pilegal_data_v1.jsonl` (3.92 GB) from the link below and place it in the project root directory:
+
+📥 **Download Link:** [Click here to download](https://github.com/beydeveloper/pilegal/releases)
+
+**Important:** After downloading, move the file to your project folder:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Place the downloaded file here
+├── server.py
+├── index.html
+└── ...
+```
+
+The file should be in the same directory as `server.py`.
 
 4. **Start the server**
 ```bash
@@ -460,14 +473,40 @@ Special thanks to:
 
 ### 🚀 Kurulum
 
+**1. Repoyu klonlayın:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Bağımlılıkları yükleyin:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Veri dosyasını indirin:**
+
+`pilegal_data_v1.jsonl` dosyasını (3.92 GB) aşağıdaki linkten indirin:
+
+📥 **İndirme Linki:** [Buradan indirebilirsiniz](https://github.com/beydeveloper/pilegal/releases)
+
+**Önemli:** İndirdikten sonra dosyayı proje dizinine koyun:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← İndirilen dosyayı buraya koyun
+├── server.py
+├── index.html
+└── ...
+```
+
+Dosya `server.py` ile aynı dizinde olmalıdır.
+
+**4. Sunucuyu başlatın:**
+```bash
 python server.py  # veya: py server.py
 ```
 
-Tarayıcıda açın: `http://localhost:5000`
+**5. Tarayıcıda açın:** `http://localhost:5000`
 
 ### 📊 İçerik
 - 💻 Programlama: ~1.5M makale
@@ -496,14 +535,38 @@ Tarayıcıda açın: `http://localhost:5000`
 
 ### 🚀 Installation
 
+**1. Repository klonen:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Abhängigkeiten installieren:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Datendatei herunterladen:**
+
+Laden Sie `pilegal_data_v1.jsonl` (3,92 GB) herunter:
+
+📥 **Download-Link:** [Hier herunterladen](https://github.com/beydeveloper/pilegal/releases)
+
+**Wichtig:** Legen Sie die Datei nach dem Download in das Projektverzeichnis:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Heruntergeladene Datei hier platzieren
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Server starten:**
+```bash
 python server.py
 ```
 
-Browser öffnen: `http://localhost:5000`
+**5. Browser öffnen:** `http://localhost:5000`
 
 ### 📊 Inhalt
 - 💻 Programmierung: ~1,5M Artikel
@@ -531,14 +594,38 @@ Browser öffnen: `http://localhost:5000`
 
 ### 🚀 Installation
 
+**1. Cloner le dépôt:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Installer les dépendances:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Télécharger le fichier de données:**
+
+Téléchargez `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Lien de téléchargement:** [Cliquez ici](https://github.com/beydeveloper/pilegal/releases)
+
+**Important:** Placez le fichier dans le répertoire du projet après téléchargement:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Placez le fichier téléchargé ici
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Démarrer le serveur:**
+```bash
 python server.py
 ```
 
-Ouvrir: `http://localhost:5000`
+**5. Ouvrir:** `http://localhost:5000`
 
 ### 📊 Contenu
 - 💻 Programmation: ~1,5M articles
@@ -566,14 +653,38 @@ Ouvrir: `http://localhost:5000`
 
 ### 🚀 Instalación
 
+**1. Clonar el repositorio:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Instalar dependencias:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Descargar el archivo de datos:**
+
+Descargue `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Enlace de descarga:** [Haga clic aquí](https://github.com/beydeveloper/pilegal/releases)
+
+**Importante:** Coloque el archivo en el directorio del proyecto después de descargarlo:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Coloque el archivo descargado aquí
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Iniciar el servidor:**
+```bash
 python server.py
 ```
 
-Abrir: `http://localhost:5000`
+**5. Abrir:** `http://localhost:5000`
 
 ### 📊 Contenido
 - 💻 Programación: ~1,5M artículos
@@ -601,14 +712,38 @@ Abrir: `http://localhost:5000`
 
 ### 🚀 Installazione
 
+**1. Clonare il repository:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Installare le dipendenze:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Scaricare il file dati:**
+
+Scarica `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Link di download:** [Clicca qui](https://github.com/beydeveloper/pilegal/releases)
+
+**Importante:** Posiziona il file nella directory del progetto dopo il download:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Posiziona il file scaricato qui
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Avviare il server:**
+```bash
 python server.py
 ```
 
-Aprire: `http://localhost:5000`
+**5. Aprire:** `http://localhost:5000`
 
 ### 📊 Contenuto
 - 💻 Programmazione: ~1,5M articoli
@@ -636,14 +771,38 @@ Aprire: `http://localhost:5000`
 
 ### 🚀 Установка
 
+**1. Клонировать репозиторий:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Установить зависимости:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Скачать файл данных:**
+
+Скачайте `pilegal_data_v1.jsonl` (3,92 ГБ):
+
+📥 **Ссылка для скачивания:** [Нажмите здесь](https://github.com/beydeveloper/pilegal/releases)
+
+**Важно:** Поместите файл в каталог проекта после загрузки:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Поместите загруженный файл сюда
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Запустить сервер:**
+```bash
 python server.py
 ```
 
-Открыть: `http://localhost:5000`
+**5. Открыть:** `http://localhost:5000`
 
 ### 📊 Содержание
 - 💻 Программирование: ~1,5M статей
@@ -671,14 +830,38 @@ python server.py
 
 ### 🚀 安装
 
+**1. 克隆仓库:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. 安装依赖:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. 下载数据文件:**
+
+下载 `pilegal_data_v1.jsonl` (3.92 GB):
+
+📥 **下载链接:** [点击这里下载](https://github.com/beydeveloper/pilegal/releases)
+
+**重要:** 下载后将文件放入项目目录:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← 将下载的文件放在这里
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. 启动服务器:**
+```bash
 python server.py
 ```
 
-打开: `http://localhost:5000`
+**5. 打开:** `http://localhost:5000`
 
 ### 📊 内容
 - 💻 编程: ~150万篇
@@ -706,14 +889,38 @@ python server.py
 
 ### 🚀 インストール
 
+**1. リポジトリをクローン:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. 依存関係をインストール:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. データファイルをダウンロード:**
+
+`pilegal_data_v1.jsonl` (3.92 GB) をダウンロード:
+
+📥 **ダウンロードリンク:** [ここをクリック](https://github.com/beydeveloper/pilegal/releases)
+
+**重要:** ダウンロード後、ファイルをプロジェクトディレクトリに配置:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← ダウンロードしたファイルをここに配置
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. サーバーを起動:**
+```bash
 python server.py
 ```
 
-開く: `http://localhost:5000`
+**5. 開く:** `http://localhost:5000`
 
 ### 📊 コンテンツ
 - 💻 プログラミング: ~150万件
@@ -741,14 +948,38 @@ python server.py
 
 ### 🚀 설치
 
+**1. 저장소 복제:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. 종속성 설치:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. 데이터 파일 다운로드:**
+
+`pilegal_data_v1.jsonl` (3.92 GB) 다운로드:
+
+📥 **다운로드 링크:** [여기를 클릭](https://github.com/beydeveloper/pilegal/releases)
+
+**중요:** 다운로드 후 파일을 프로젝트 디렉토리에 배치:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← 다운로드한 파일을 여기에 배치
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. 서버 시작:**
+```bash
 python server.py
 ```
 
-열기: `http://localhost:5000`
+**5. 열기:** `http://localhost:5000`
 
 ### 📊 콘텐츠
 - 💻 프로그래밍: ~150만개
@@ -776,14 +1007,38 @@ python server.py
 
 ### 🚀 التثبيت
 
+**1. استنساخ المستودع:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. تثبيت التبعيات:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. تنزيل ملف البيانات:**
+
+قم بتنزيل `pilegal_data_v1.jsonl` (3.92 جيجابايت):
+
+📥 **رابط التنزيل:** [انقر هنا للتنزيل](https://github.com/beydeveloper/pilegal/releases)
+
+**مهم:** ضع الملف في دليل المشروع بعد التنزيل:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← ضع الملف المحمل هنا
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. بدء الخادم:**
+```bash
 python server.py
 ```
 
-فتح: `http://localhost:5000`
+**5. فتح:** `http://localhost:5000`
 
 ### 📊 المحتوى
 - 💻 البرمجة: ~1.5 مليون
@@ -811,14 +1066,38 @@ python server.py
 
 ### 🚀 स्थापना
 
+**1. रिपॉजिटरी क्लोन करें:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. निर्भरताएं स्थापित करें:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. डेटा फ़ाइल डाउनलोड करें:**
+
+`pilegal_data_v1.jsonl` (3.92 GB) डाउनलोड करें:
+
+📥 **डाउनलोड लिंक:** [यहां क्लिक करें](https://github.com/beydeveloper/pilegal/releases)
+
+**महत्वपूर्ण:** डाउनलोड के बाद फ़ाइल को प्रोजेक्ट डायरेक्टरी में रखें:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← डाउनलोड की गई फ़ाइल यहां रखें
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. सर्वर प्रारंभ करें:**
+```bash
 python server.py
 ```
 
-खोलें: `http://localhost:5000`
+**5. खोलें:** `http://localhost:5000`
 
 ### 📊 सामग्री
 - 💻 प्रोग्रामिंग: ~15 लाख
@@ -846,14 +1125,38 @@ python server.py
 
 ### 🚀 Instalação
 
+**1. Clonar o repositório:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Instalar dependências:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Baixar o arquivo de dados:**
+
+Baixe `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Link de download:** [Clique aqui](https://github.com/beydeveloper/pilegal/releases)
+
+**Importante:** Coloque o arquivo no diretório do projeto após o download:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Coloque o arquivo baixado aqui
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Iniciar o servidor:**
+```bash
 python server.py
 ```
 
-Abrir: `http://localhost:5000`
+**5. Abrir:** `http://localhost:5000`
 
 ### 📊 Conteúdo
 - 💻 Programação: ~1,5M artigos
@@ -881,14 +1184,38 @@ Abrir: `http://localhost:5000`
 
 ### 🚀 Installatie
 
+**1. Repository klonen:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Afhankelijkheden installeren:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Gegevensbestand downloaden:**
+
+Download `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Downloadlink:** [Klik hier](https://github.com/beydeveloper/pilegal/releases)
+
+**Belangrijk:** Plaats het bestand in de projectmap na het downloaden:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Plaats het gedownloade bestand hier
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Server starten:**
+```bash
 python server.py
 ```
 
-Openen: `http://localhost:5000`
+**5. Openen:** `http://localhost:5000`
 
 ### 📊 Inhoud
 - 💻 Programmeren: ~1,5M artikelen
@@ -916,14 +1243,38 @@ Openen: `http://localhost:5000`
 
 ### 🚀 Instalacja
 
+**1. Sklonuj repozytorium:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Zainstaluj zależności:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Pobierz plik danych:**
+
+Pobierz `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Link do pobrania:** [Kliknij tutaj](https://github.com/beydeveloper/pilegal/releases)
+
+**Ważne:** Umieść plik w katalogu projektu po pobraniu:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Umieść pobrany plik tutaj
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Uruchom serwer:**
+```bash
 python server.py
 ```
 
-Otwórz: `http://localhost:5000`
+**5. Otwórz:** `http://localhost:5000`
 
 ### 📊 Zawartość
 - 💻 Programowanie: ~1,5M artykułów
@@ -951,14 +1302,38 @@ Otwórz: `http://localhost:5000`
 
 ### 🚀 Installation
 
+**1. Klona repository:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Installera beroenden:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Ladda ner datafilen:**
+
+Ladda ner `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Nedladdningslänk:** [Klicka här](https://github.com/beydeveloper/pilegal/releases)
+
+**Viktigt:** Placera filen i projektkatalogen efter nedladdning:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Placera nedladdad fil här
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Starta servern:**
+```bash
 python server.py
 ```
 
-Öppna: `http://localhost:5000`
+**5. Öppna:** `http://localhost:5000`
 
 ### 📊 Innehåll
 - 💻 Programmering: ~1,5M artiklar
@@ -986,14 +1361,38 @@ python server.py
 
 ### 🚀 Installasjon
 
+**1. Klone repository:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Installer avhengigheter:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Last ned datafilen:**
+
+Last ned `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Nedlastingslenke:** [Klikk her](https://github.com/beydeveloper/pilegal/releases)
+
+**Viktig:** Plasser filen i prosjektmappen etter nedlasting:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Plasser nedlastet fil her
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Start serveren:**
+```bash
 python server.py
 ```
 
-Åpne: `http://localhost:5000`
+**5. Åpne:** `http://localhost:5000`
 
 ### 📊 Innhold
 - 💻 Programmering: ~1,5M artikler
@@ -1021,14 +1420,38 @@ python server.py
 
 ### 🚀 Installation
 
+**1. Klon repository:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Installer afhængigheder:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Download datafilen:**
+
+Download `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Downloadlink:** [Klik her](https://github.com/beydeveloper/pilegal/releases)
+
+**Vigtigt:** Placér filen i projektmappen efter download:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Placér downloadet fil her
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Start serveren:**
+```bash
 python server.py
 ```
 
-Åbn: `http://localhost:5000`
+**5. Åbn:** `http://localhost:5000`
 
 ---
 
@@ -1059,14 +1482,38 @@ python server.py
 
 **Asennusohjeet:**
 
+**1. Kloonaa repositorio:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Asenna riippuvuudet:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Lataa datatiedosto:**
+
+Lataa `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Latauslinkki:** [Klikkaa tästä](https://github.com/beydeveloper/pilegal/releases)
+
+**Tärkeää:** Sijoita tiedosto projektihakemistoon latauksen jälkeen:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Sijoita ladattu tiedosto tähän
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Käynnistä palvelin:**
+```bash
 python server.py
 ```
 
-Avaa selaimessa: `http://localhost:5000`
+**5. Avaa selaimessa:** `http://localhost:5000`
 
 ### 📊 Sisältöjakauma
 - 💻 **Ohjelmointi:** ~1,5M artikkelia - Python, JavaScript, Java, C++
@@ -1118,14 +1565,38 @@ Tämä projekti on lisensoitu **Creative Commons Zero v1.0 Universal (CC0 1.0)**
 
 **Οδηγίες Εγκατάστασης:**
 
+**1. Κλωνοποίηση αποθετηρίου:**
 ```bash
 git clone https://github.com/beydeveloper/pilegal.git
 cd pilegal
+```
+
+**2. Εγκατάσταση εξαρτήσεων:**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Λήψη αρχείου δεδομένων:**
+
+Κατεβάστε το `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Σύνδεσμος λήψης:** [Κάντε κλικ εδώ](https://github.com/beydeveloper/pilegal/releases)
+
+**Σημαντικό:** Τοποθετήστε το αρχείο στον κατάλογο του έργου μετά τη λήψη:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Τοποθετήστε το ληφθέν αρχείο εδώ
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Εκκίνηση διακομιστή:**
+```bash
 python server.py
 ```
 
-Ανοίξτε στο πρόγραμμα περιήγησης: `http://localhost:5000`
+**5. Ανοίξτε στο πρόγραμμα περιήγησης:** `http://localhost:5000`
 
 ### 📊 Κατανομή Περιεχομένου
 - 💻 **Προγραμματισμός:** ~1,5M άρθρα - Python, JavaScript, Java, C++
@@ -1143,4 +1614,758 @@ python server.py
 
 **Τι σημαίνει αυτό:**
 - ✅ Χωρίς πνευματικά δικαιώματα - Εντελώς στο δημόσιο τομέα
+- ✅ Χρήση ελεύθερα - Προσωπική ή εμπορική χρήση
+- ✅ Τροποποίηση ελεύθερα - Δημιουργία παράγωγων έργων
+- ✅ Διανομή ελεύθερα - Κοινή χρήση με οποιονδήποτε
+- ✅ Δεν απαιτείται αναφορά - Αν και εκτιμάται!
 
+---
+
+## 🇨🇿 Čeština
+
+## 📖 O Projektu
+
+**PiLegal** je svobodná encyklopedie s otevřeným zdrojovým kódem obsahující **více než 4,1 milionu článků** v různých oblastech včetně programování, kybernetické bezpečnosti, datové vědy, webového vývoje a mnoha dalších. Navržena s rozhraním ve stylu Wikipedie pro snadné použití.
+
+### ✨ Funkce
+
+- 🔍 **Výkonný Vyhledávač** - Okamžité vyhledávání ve více než 4,1M+ článcích
+- 📚 **Víceúrovňový Obsah** - Programování, bezpečnost, datová věda a další
+- 🎨 **Rozhraní ve Stylu Wikipedie** - Čistý, uživatelsky přívětivý design
+- 🚀 **Rychlé RESTful API** - Snadná integrace s vašimi aplikacemi
+- 🎲 **Objevování Náhodných Článků** - Prozkoumejte náhodný obsah
+- 📊 **Podrobné Statistiky** - Analýza založená na kategoriích
+- 🌐 **29 Jazyků** - Vícejazyčná dokumentace
+- ⚡ **Vysoký Výkon** - Doba odezvy vyhledávání <100ms
+- 🔓 **Licence CC0** - Zcela zdarma k použití, úpravám a distribuci
+
+### 🚀 Instalace
+
+**Požadavky:**
+- Python 3.8 nebo vyšší
+- pip (správce balíčků Pythonu)
+- 4 GB+ volného místa na disku
+
+**Pokyny k instalaci:**
+
+**1. Klonovat repozitář:**
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+```
+
+**2. Nainstalovat závislosti:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Stáhnout datový soubor:**
+
+Stáhněte `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Odkaz ke stažení:** [Klikněte zde](https://github.com/beydeveloper/pilegal/releases)
+
+**Důležité:** Po stažení umístěte soubor do adresáře projektu:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Umístěte stažený soubor sem
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Spustit server:**
+```bash
+python server.py
+```
+
+**5. Otevřete v prohlížeči:** `http://localhost:5000`
+
+### 📊 Rozdělení Obsahu
+- 💻 **Programování:** ~1,5M článků - Python, JavaScript, Java, C++
+- 🔐 **Kybernetická Bezpečnost:** ~800K článků - Analýza zranitelností, penetrační testování
+- 📊 **Datová Věda:** ~600K článků - Strojové učení, umělá inteligence, analýza dat
+- 🌐 **Webový Vývoj:** ~500K článků - Frontend, Backend, Full-stack
+- 🗄️ **Databáze:** ~300K článků - SQL, NoSQL, datové modelování
+- 🔧 **Ostatní:** ~400K článků - Sítě, správa systémů, DevOps
+
+**Celkem:** 4 120 756 článků | **Velikost:** 3,92 GB
+
+### 📄 Licence
+
+Tento projekt je licencován pod licencí **Creative Commons Zero v1.0 Universal (CC0 1.0)**.
+
+**Co to znamená:**
+- ✅ Bez autorských práv - Zcela ve veřejné doméně
+- ✅ Používejte volně - Osobní nebo komerční použití
+- ✅ Upravujte volně - Vytvářejte odvozená díla
+- ✅ Distribuujte volně - Sdílejte s kýmkoli
+- ✅ Není vyžadována atribuce - I když je vítána!
+
+---
+
+## 🇭🇺 Magyar
+
+## 📖 A Projektről
+
+**PiLegal** egy szabad, nyílt forráskódú tudásenciklopédia, amely **több mint 4,1 millió cikket** tartalmaz különböző területeken, beleértve a programozást, kiberbiztonsági, adattudományt, webfejlesztést és még sok mást. Wikipédia stílusú felülettel tervezve a könnyű használat érdekében.
+
+### ✨ Jellemzők
+
+- 🔍 **Erőteljes Keresőmotor** - Azonnali keresés több mint 4,1M+ cikkben
+- 📚 **Többkategóriás Tartalom** - Programozás, biztonság, adattudomány és több
+- 🎨 **Wikipédia Stílusú Felület** - Tiszta, felhasználóbarát dizájn
+- 🚀 **Gyors RESTful API** - Könnyű integráció az alkalmazásaival
+- 🎲 **Véletlenszerű Cikkek Felfedezése** - Fedezzen fel véletlenszerű tartalmat
+- 📊 **Részletes Statisztikák** - Kategória alapú elemzés
+- 🌐 **29 Nyelv** - Többnyelvű dokumentáció
+- ⚡ **Nagy Teljesítmény** - <100ms keresési válaszidő
+- 🔓 **CC0 Licenc** - Teljesen ingyenesen használható, módosítható és terjeszthető
+
+### 🚀 Telepítés
+
+**Követelmények:**
+- Python 3.8 vagy újabb
+- pip (Python csomagkezelő)
+- 4 GB+ szabad lemezterület
+
+**Telepítési útmutató:**
+
+**1. Repository klónozása:**
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+```
+
+**2. Függőségek telepítése:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Adatfájl letöltése:**
+
+Töltse le a `pilegal_data_v1.jsonl` fájlt (3,92 GB):
+
+📥 **Letöltési link:** [Kattintson ide](https://github.com/beydeveloper/pilegal/releases)
+
+**Fontos:** A letöltés után helyezze el a fájlt a projekt könyvtárában:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Helyezze ide a letöltött fájlt
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Szerver indítása:**
+```bash
+python server.py
+```
+
+**5. Nyissa meg a böngészőben:** `http://localhost:5000`
+
+### 📊 Tartalomelosztás
+- 💻 **Programozás:** ~1,5M cikk - Python, JavaScript, Java, C++
+- 🔐 **Kiberbiztonság:** ~800K cikk - Sebezhetőség-elemzés, behatolási tesztelés
+- 📊 **Adattudomány:** ~600K cikk - Gépi tanulás, mesterséges intelligencia
+- 🌐 **Webfejlesztés:** ~500K cikk - Frontend, Backend, Full-stack
+- 🗄️ **Adatbázis:** ~300K cikk - SQL, NoSQL, adatmodellezés
+- 🔧 **Egyéb:** ~400K cikk - Hálózat, rendszeradminisztráció, DevOps
+
+**Összesen:** 4 120 756 cikk | **Méret:** 3,92 GB
+
+### 📄 Licenc
+
+Ez a projekt a **Creative Commons Zero v1.0 Universal (CC0 1.0)** licenc alatt van licencelve.
+
+**Mit jelent ez:**
+- ✅ Nincs szerzői jog - Teljesen nyilvános tulajdon
+- ✅ Szabadon használható - Személyes vagy kereskedelmi használatra
+- ✅ Szabadon módosítható - Származékos művek létrehozása
+- ✅ Szabadon terjeszthető - Megosztás bárkivel
+- ✅ Nem szükséges forrásmegjelölés - Bár értékeljük!
+
+---
+
+## 🇷🇴 Română
+
+## 📖 Despre Proiect
+
+**PiLegal** este o enciclopedie liberă cu sursă deschisă care conține **peste 4,1 milioane de articole** în diverse domenii, inclusiv programare, securitate cibernetică, știința datelor, dezvoltare web și multe altele. Proiectată cu o interfață în stil Wikipedia pentru ușurință în utilizare.
+
+### ✨ Caracteristici
+
+- 🔍 **Motor de Căutare Puternic** - Căutare instantanee în peste 4,1M+ articole
+- 📚 **Conținut Multi-Categorie** - Programare, securitate, știința datelor și mai mult
+- 🎨 **Interfață în Stil Wikipedia** - Design curat, prietenos cu utilizatorul
+- 🚀 **API RESTful Rapid** - Integrare ușoară cu aplicațiile dumneavoastră
+- 🎲 **Descoperirea Articolelor Aleatorii** - Explorați conținut aleatoriu
+- 📊 **Statistici Detaliate** - Analiză bazată pe categorii
+- 🌐 **29 de Limbi** - Documentație multilingvă
+- ⚡ **Performanță Înaltă** - Timp de răspuns la căutare <100ms
+- 🔓 **Licență CC0** - Complet gratuit pentru utilizare, modificare și distribuire
+
+### 🚀 Instalare
+
+**Cerințe:**
+- Python 3.8 sau mai nou
+- pip (manager de pachete Python)
+- 4 GB+ spațiu liber pe disc
+
+**Instrucțiuni de instalare:**
+
+**1. Clonați repository-ul:**
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+```
+
+**2. Instalați dependențele:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Descărcați fișierul de date:**
+
+Descărcați `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Link de descărcare:** [Faceți clic aici](https://github.com/beydeveloper/pilegal/releases)
+
+**Important:** Plasați fișierul în directorul proiectului după descărcare:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Plasați fișierul descărcat aici
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Porniți serverul:**
+```bash
+python server.py
+```
+
+**5. Deschideți în browser:** `http://localhost:5000`
+
+### 📊 Distribuția Conținutului
+- 💻 **Programare:** ~1,5M articole - Python, JavaScript, Java, C++
+- 🔐 **Securitate Cibernetică:** ~800K articole - Analiză vulnerabilități, testare penetrare
+- 📊 **Știința Datelor:** ~600K articole - Învățare automată, inteligență artificială
+- 🌐 **Dezvoltare Web:** ~500K articole - Frontend, Backend, Full-stack
+- 🗄️ **Baze de Date:** ~300K articole - SQL, NoSQL, modelare date
+- 🔧 **Altele:** ~400K articole - Rețele, administrare sisteme, DevOps
+
+**Total:** 4 120 756 articole | **Dimensiune:** 3,92 GB
+
+### 📄 Licență
+
+Acest proiect este licențiat sub licența **Creative Commons Zero v1.0 Universal (CC0 1.0)**.
+
+**Ce înseamnă acest lucru:**
+- ✅ Fără drepturi de autor - Complet în domeniu public
+- ✅ Utilizați liber - Utilizare personală sau comercială
+- ✅ Modificați liber - Creați lucrări derivate
+- ✅ Distribuiți liber - Partajați cu oricine
+- ✅ Nu este necesară atribuirea - Deși este apreciată!
+
+---
+
+## 🇺🇦 Українська
+
+## 📖 Про Проект
+
+**PiLegal** - це вільна енциклопедія з відкритим вихідним кодом, що містить **понад 4,1 мільйона статей** у різних галузях, включаючи програмування, кібербезпеку, науку про дані, веб-розробку та багато іншого. Розроблена з інтерфейсом у стилі Вікіпедії для зручності використання.
+
+### ✨ Можливості
+
+- 🔍 **Потужна Пошукова Система** - Миттєвий пошук серед понад 4,1M+ статей
+- 📚 **Багатокатегорійний Контент** - Програмування, безпека, наука про дані та більше
+- 🎨 **Інтерфейс у Стилі Вікіпедії** - Чистий, зручний дизайн
+- 🚀 **Швидке RESTful API** - Легка інтеграція з вашими додатками
+- 🎲 **Відкриття Випадкових Статей** - Досліджуйте випадковий контент
+- 📊 **Детальна Статистика** - Аналіз на основі категорій
+- 🌐 **29 Мов** - Багатомовна документація
+- ⚡ **Висока Продуктивність** - Час відповіді пошуку <100мс
+- 🔓 **Ліцензія CC0** - Повністю безкоштовно для використання, зміни та розповсюдження
+
+### 🚀 Встановлення
+
+**Вимоги:**
+- Python 3.8 або новіший
+- pip (менеджер пакетів Python)
+- 4 ГБ+ вільного місця на диску
+
+**Інструкції з встановлення:**
+
+**1. Клонувати репозиторій:**
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+```
+
+**2. Встановити залежності:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Завантажити файл даних:**
+
+Завантажте `pilegal_data_v1.jsonl` (3,92 ГБ):
+
+📥 **Посилання для завантаження:** [Натисніть тут](https://github.com/beydeveloper/pilegal/releases)
+
+**Важливо:** Помістіть файл у каталог проекту після завантаження:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Помістіть завантажений файл сюди
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Запустити сервер:**
+```bash
+python server.py
+```
+
+**5. Відкрийте у браузері:** `http://localhost:5000`
+
+### 📊 Розподіл Контенту
+- 💻 **Програмування:** ~1,5M статей - Python, JavaScript, Java, C++
+- 🔐 **Кібербезпека:** ~800K статей - Аналіз вразливостей, тестування на проникнення
+- 📊 **Наука про Дані:** ~600K статей - Машинне навчання, штучний інтелект
+- 🌐 **Веб-Розробка:** ~500K статей - Frontend, Backend, Full-stack
+- 🗄️ **Бази Даних:** ~300K статей - SQL, NoSQL, моделювання даних
+- 🔧 **Інше:** ~400K статей - Мережі, системне адміністрування, DevOps
+
+**Усього:** 4 120 756 статей | **Розмір:** 3,92 ГБ
+
+### 📄 Ліцензія
+
+Цей проект ліцензовано під ліцензією **Creative Commons Zero v1.0 Universal (CC0 1.0)**.
+
+**Що це означає:**
+- ✅ Без авторських прав - Повністю у суспільному надбанні
+- ✅ Використовуйте вільно - Особисте або комерційне використання
+- ✅ Змінюйте вільно - Створюйте похідні роботи
+- ✅ Поширюйте вільно - Діліться з ким завгодно
+- ✅ Не потрібна атрибуція - Хоча вітається!
+
+---
+
+## 🇮🇩 Indonesia
+
+## 📖 Tentang
+
+**PiLegal** adalah ensiklopedia pengetahuan bebas dan open-source yang berisi **lebih dari 4,1 juta artikel** di berbagai bidang termasuk pemrograman, keamanan siber, ilmu data, pengembangan web, dan banyak lagi. Dirancang dengan antarmuka bergaya Wikipedia untuk kemudahan penggunaan.
+
+### ✨ Fitur
+
+- 🔍 **Mesin Pencari Kuat** - Pencarian instan di lebih dari 4,1M+ artikel
+- 📚 **Konten Multi-Kategori** - Pemrograman, keamanan, ilmu data, dan lebih banyak lagi
+- 🎨 **Antarmuka Bergaya Wikipedia** - Desain bersih dan ramah pengguna
+- 🚀 **RESTful API Cepat** - Integrasi mudah dengan aplikasi Anda
+- 🎲 **Penemuan Artikel Acak** - Jelajahi konten acak
+- 📊 **Statistik Terperinci** - Analitik berbasis kategori
+- 🌐 **29 Bahasa** - Dokumentasi multibahasa
+- ⚡ **Kinerja Tinggi** - Waktu respons pencarian <100ms
+- 🔓 **Berlisensi CC0** - Sepenuhnya gratis untuk digunakan, dimodifikasi, dan didistribusikan
+
+### 🚀 Instalasi
+
+**Persyaratan:**
+- Python 3.8 atau lebih tinggi
+- pip (pengelola paket Python)
+- 4 GB+ ruang disk kosong
+
+**Petunjuk instalasi:**
+
+**1. Clone repository:**
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+```
+
+**2. Instal dependensi:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Unduh file data:**
+
+Unduh `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Link unduhan:** [Klik di sini](https://github.com/beydeveloper/pilegal/releases)
+
+**Penting:** Letakkan file di direktori proyek setelah mengunduh:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Letakkan file yang diunduh di sini
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Jalankan server:**
+```bash
+python server.py
+```
+
+**5. Buka di browser:** `http://localhost:5000`
+
+### 📊 Distribusi Konten
+- 💻 **Pemrograman:** ~1,5M artikel - Python, JavaScript, Java, C++
+- 🔐 **Keamanan Siber:** ~800K artikel - Analisis kerentanan, pengujian penetrasi
+- 📊 **Ilmu Data:** ~600K artikel - Machine learning, AI, analisis data
+- 🌐 **Pengembangan Web:** ~500K artikel - Frontend, Backend, Full-stack
+- 🗄️ **Database:** ~300K artikel - SQL, NoSQL, pemodelan data
+- 🔧 **Lainnya:** ~400K artikel - Jaringan, administrasi sistem, DevOps
+
+**Total:** 4.120.756 artikel | **Ukuran:** 3,92 GB
+
+### 📄 Lisensi
+
+Proyek ini dilisensikan di bawah lisensi **Creative Commons Zero v1.0 Universal (CC0 1.0)**.
+
+**Apa artinya ini:**
+- ✅ Tanpa hak cipta - Sepenuhnya domain publik
+- ✅ Gunakan dengan bebas - Penggunaan pribadi atau komersial
+- ✅ Modifikasi dengan bebas - Buat karya turunan
+- ✅ Distribusikan dengan bebas - Bagikan dengan siapa saja
+- ✅ Tidak diperlukan atribusi - Meskipun dihargai!
+
+---
+
+## 🇹🇭 ไทย
+
+## 📖 เกี่ยวกับโครงการ
+
+**PiLegal** เป็นสารานุกรมความรู้เสรีและโอเพนซอร์สที่มี**บทความมากกว่า 4.1 ล้านบทความ**ในหลากหลายสาขา รวมถึงการเขียนโปรแกรม ความปลอดภัยทางไซเบอร์ วิทยาศาสตร์ข้อมูล การพัฒนาเว็บ และอื่นๆ อีกมากมาย ออกแบบด้วยอินเทอร์เฟซสไตล์วิกิพีเดียเพื่อความสะดวกในการใช้งาน
+
+### ✨ คุณสมบัติ
+
+- 🔍 **เครื่องมือค้นหาที่ทรงพลัง** - ค้นหาทันทีในบทความมากกว่า 4.1M+
+- 📚 **เนื้อหาหลายหมวดหมู่** - การเขียนโปรแกรม ความปลอดภัย วิทยาศาสตร์ข้อมูล และอื่นๆ
+- 🎨 **อินเทอร์เฟซสไตล์วิกิพีเดีย** - การออกแบบที่สะอาดและเป็นมิตรกับผู้ใช้
+- 🚀 **RESTful API ที่รวดเร็ว** - บูรณาการได้ง่ายกับแอปพลิเคชันของคุณ
+- 🎲 **การค้นพบบทความแบบสุ่ม** - สำรวจเนื้อหาแบบสุ่ม
+- 📊 **สถิติโดยละเอียด** - การวิเคราะห์ตามหมวดหมู่
+- 🌐 **29 ภาษา** - เอกสารหลายภาษา
+- ⚡ **ประสิทธิภาพสูง** - เวลาตอบสนองการค้นหา <100ms
+- 🔓 **ใบอนุญาต CC0** - ฟรีโดยสมบูรณ์สำหรับการใช้งาน แก้ไข และแจกจ่าย
+
+### 🚀 การติดตั้ง
+
+**ข้อกำหนด:**
+- Python 3.8 หรือสูงกว่า
+- pip (ตัวจัดการแพ็คเกจ Python)
+- พื้นที่ดิสก์ว่าง 4 GB+
+
+**คำแนะนำการติดตั้ง:**
+
+**1. โคลนรีพอสิทอรี:**
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+```
+
+**2. ติดตั้ง dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. ดาวน์โหลดไฟล์ข้อมูล:**
+
+ดาวน์โหลด `pilegal_data_v1.jsonl` (3.92 GB):
+
+📥 **ลิงก์ดาวน์โหลด:** [คลิกที่นี่](https://github.com/beydeveloper/pilegal/releases)
+
+**สำคัญ:** วางไฟล์ในไดเรกทอรีโครงการหลังจากดาวน์โหลด:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← วางไฟล์ที่ดาวน์โหลดไว้ที่นี่
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. เริ่มเซิร์ฟเวอร์:**
+```bash
+python server.py
+```
+
+**5. เปิดในเบราว์เซอร์:** `http://localhost:5000`
+
+### 📊 การกระจายเนื้อหา
+- 💻 **การเขียนโปรแกรม:** ~1.5M บทความ - Python, JavaScript, Java, C++
+- 🔐 **ความปลอดภัยทางไซเบอร์:** ~800K บทความ - การวิเคราะห์ช่องโหว่ การทดสอบการเจาะระบบ
+- 📊 **วิทยาศาสตร์ข้อมูล:** ~600K บทความ - การเรียนรู้ของเครื่อง AI การวิเคราะห์ข้อมูล
+- 🌐 **การพัฒนาเว็บ:** ~500K บทความ - Frontend, Backend, Full-stack
+- 🗄️ **ฐานข้อมูล:** ~300K บทความ - SQL, NoSQL, การสร้างแบบจำลองข้อมูล
+- 🔧 **อื่นๆ:** ~400K บทความ - เครือข่าย การบริหารระบบ DevOps
+
+**รวมทั้งหมด:** 4,120,756 บทความ | **ขนาด:** 3.92 GB
+
+### 📄 ใบอนุญาต
+
+โครงการนี้ได้รับอนุญาตภายใต้ใบอนุญาต **Creative Commons Zero v1.0 Universal (CC0 1.0)**
+
+**หมายความว่าอย่างไร:**
+- ✅ ไม่มีลิขสิทธิ์ - เป็นสาธารณสมบัติโดยสมบูรณ์
+- ✅ ใช้งานได้อย่างอิสระ - การใช้งานส่วนบุคคลหรือเชิงพาณิชย์
+- ✅ แก้ไขได้อย่างอิสระ - สร้างงานต่อยอด
+- ✅ แจกจ่ายได้อย่างอิสระ - แบ่งปันกับใครก็ได้
+- ✅ ไม่จำเป็นต้องระบุแหล่งที่มา - แม้ว่าจะชื่นชม!
+
+---
+
+## 🇻🇳 Tiếng Việt
+
+## 📖 Giới Thiệu
+
+**PiLegal** là một bách khoa toàn thư tri thức miễn phí và mã nguồn mở chứa **hơn 4,1 triệu bài viết** về nhiều lĩnh vực khác nhau bao gồm lập trình, an ninh mạng, khoa học dữ liệu, phát triển web và nhiều hơn nữa. Được thiết kế với giao diện theo phong cách Wikipedia để dễ sử dụng.
+
+### ✨ Tính Năng
+
+- 🔍 **Công Cụ Tìm Kiếm Mạnh Mẽ** - Tìm kiếm tức thì trong hơn 4,1M+ bài viết
+- 📚 **Nội Dung Đa Danh Mục** - Lập trình, bảo mật, khoa học dữ liệu và nhiều hơn nữa
+- 🎨 **Giao Diện Phong Cách Wikipedia** - Thiết kế sạch sẽ, thân thiện với người dùng
+- 🚀 **RESTful API Nhanh** - Tích hợp dễ dàng với ứng dụng của bạn
+- 🎲 **Khám Phá Bài Viết Ngẫu Nhiên** - Khám phá nội dung ngẫu nhiên
+- 📊 **Thống Kê Chi Tiết** - Phân tích dựa trên danh mục
+- 🌐 **29 Ngôn Ngữ** - Tài liệu đa ngôn ngữ
+- ⚡ **Hiệu Suất Cao** - Thời gian phản hồi tìm kiếm <100ms
+- 🔓 **Giấy Phép CC0** - Hoàn toàn miễn phí để sử dụng, sửa đổi và phân phối
+
+### 🚀 Cài Đặt
+
+**Yêu cầu:**
+- Python 3.8 trở lên
+- pip (trình quản lý gói Python)
+- 4 GB+ dung lượng đĩa trống
+
+**Hướng dẫn cài đặt:**
+
+**1. Clone repository:**
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+```
+
+**2. Cài đặt các dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Tải file dữ liệu:**
+
+Tải xuống `pilegal_data_v1.jsonl` (3,92 GB):
+
+📥 **Link tải xuống:** [Nhấp vào đây](https://github.com/beydeveloper/pilegal/releases)
+
+**Quan trọng:** Đặt file vào thư mục dự án sau khi tải xuống:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← Đặt file đã tải ở đây
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. Khởi động server:**
+```bash
+python server.py
+```
+
+**5. Mở trong trình duyệt:** `http://localhost:5000`
+
+### 📊 Phân Bố Nội Dung
+- 💻 **Lập Trình:** ~1,5M bài viết - Python, JavaScript, Java, C++
+- 🔐 **An Ninh Mạng:** ~800K bài viết - Phân tích lỗ hổng, kiểm tra thâm nhập
+- 📊 **Khoa Học Dữ Liệu:** ~600K bài viết - Machine learning, AI, phân tích dữ liệu
+- 🌐 **Phát Triển Web:** ~500K bài viết - Frontend, Backend, Full-stack
+- 🗄️ **Cơ Sở Dữ Liệu:** ~300K bài viết - SQL, NoSQL, mô hình hóa dữ liệu
+- 🔧 **Khác:** ~400K bài viết - Mạng, quản trị hệ thống, DevOps
+
+**Tổng cộng:** 4.120.756 bài viết | **Kích thước:** 3,92 GB
+
+### 📄 Giấy Phép
+
+Dự án này được cấp phép theo giấy phép **Creative Commons Zero v1.0 Universal (CC0 1.0)**.
+
+**Điều này có nghĩa là gì:**
+- ✅ Không có bản quyền - Hoàn toàn thuộc phạm vi công cộng
+- ✅ Sử dụng tự do - Sử dụng cá nhân hoặc thương mại
+- ✅ Sửa đổi tự do - Tạo các tác phẩm phái sinh
+- ✅ Phân phối tự do - Chia sẻ với bất kỳ ai
+- ✅ Không yêu cầu ghi công - Mặc dù được đánh giá cao!
+
+---
+
+## 🇮🇷 فارسی
+
+## 📖 درباره پروژه
+
+**PiLegal** یک دانشنامه دانش آزاد و منبع باز است که **بیش از 4.1 میلیون مقاله** در زمینه‌های مختلف از جمله برنامه‌نویسی، امنیت سایبری، علم داده، توسعه وب و موارد دیگر دارد. با رابط کاربری به سبک ویکی‌پدیا برای سهولت استفاده طراحی شده است.
+
+### ✨ ویژگی‌ها
+
+- 🔍 **موتور جستجوی قدرتمند** - جستجوی فوری در بیش از 4.1M+ مقاله
+- 📚 **محتوای چند دسته‌ای** - برنامه‌نویسی، امنیت، علم داده و بیشتر
+- 🎨 **رابط کاربری به سبک ویکی‌پدیا** - طراحی تمیز و کاربرپسند
+- 🚀 **API RESTful سریع** - یکپارچه‌سازی آسان با برنامه‌های شما
+- 🎲 **کشف مقالات تصادفی** - محتوای تصادفی را کاوش کنید
+- 📊 **آمار دقیق** - تحلیل بر اساس دسته‌بندی
+- 🌐 **29 زبان** - مستندات چند زبانه
+- ⚡ **عملکرد بالا** - زمان پاسخ جستجو <100ms
+- 🔓 **مجوز CC0** - کاملاً رایگان برای استفاده، تغییر و توزیع
+
+### 🚀 نصب
+
+**الزامات:**
+- Python 3.8 یا بالاتر
+- pip (مدیر بسته Python)
+- 4 GB+ فضای خالی دیسک
+
+**دستورالعمل نصب:**
+
+**1. کلون کردن مخزن:**
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+```
+
+**2. نصب وابستگی‌ها:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. دانلود فایل داده:**
+
+دانلود `pilegal_data_v1.jsonl` (3.92 GB):
+
+📥 **لینک دانلود:** [اینجا کلیک کنید](https://github.com/beydeveloper/pilegal/releases)
+
+**مهم:** پس از دانلود، فایل را در دایرکتوری پروژه قرار دهید:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← فایل دانلود شده را اینجا قرار دهید
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. راه‌اندازی سرور:**
+```bash
+python server.py
+```
+
+**5. در مرورگر باز کنید:** `http://localhost:5000`
+
+### 📊 توزیع محتوا
+- 💻 **برنامه‌نویسی:** ~1.5M مقاله - Python, JavaScript, Java, C++
+- 🔐 **امنیت سایبری:** ~800K مقاله - تحلیل آسیب‌پذیری، تست نفوذ
+- 📊 **علم داده:** ~600K مقاله - یادگیری ماشین، هوش مصنوعی، تحلیل داده
+- 🌐 **توسعه وب:** ~500K مقاله - Frontend, Backend, Full-stack
+- 🗄️ **پایگاه داده:** ~300K مقاله - SQL, NoSQL, مدل‌سازی داده
+- 🔧 **سایر:** ~400K مقاله - شبکه، مدیریت سیستم، DevOps
+
+**مجموع:** 4,120,756 مقاله | **حجم:** 3.92 GB
+
+### 📄 مجوز
+
+این پروژه تحت مجوز **Creative Commons Zero v1.0 Universal (CC0 1.0)** منتشر شده است.
+
+**این به چه معناست:**
+- ✅ بدون حق نسخه‌برداری - کاملاً در حوزه عمومی
+- ✅ استفاده آزاد - استفاده شخصی یا تجاری
+- ✅ تغییر آزاد - ایجاد آثار مشتق
+- ✅ توزیع آزاد - به اشتراک‌گذاری با هر کسی
+- ✅ نیازی به ذکر منبع نیست - اگرچه قدردانی می‌شود!
+
+---
+
+## 🇵🇰 اردو
+
+## 📖 تعارف
+
+**PiLegal** ایک آزاد اور اوپن سورس علمی دائرۃ المعارف ہے جس میں پروگرامنگ، سائبر سیکیورٹی، ڈیٹا سائنس، ویب ڈویلپمنٹ اور بہت کچھ سمیت مختلف شعبوں میں **4.1 ملین سے زیادہ مضامین** ہیں۔ استعمال میں آسانی کے لیے وکی پیڈیا طرز کے انٹرفیس کے ساتھ ڈیزائن کیا گیا ہے۔
+
+### ✨ خصوصیات
+
+- 🔍 **طاقتور تلاش کا انجن** - 4.1M+ مضامین میں فوری تلاش
+- 📚 **کثیر زمرہ مواد** - پروگرامنگ، سیکیورٹی، ڈیٹا سائنس اور مزید
+- 🎨 **وکی پیڈیا طرز کا انٹرفیس** - صاف، صارف دوست ڈیزائن
+- 🚀 **تیز RESTful API** - آپ کی ایپلیکیشنز کے ساتھ آسان انضمام
+- 🎲 **بے ترتیب مضامین کی دریافت** - بے ترتیب مواد دریافت کریں
+- 📊 **تفصیلی اعدادوشمار** - زمرہ پر مبنی تجزیات
+- 🌐 **29 زبانیں** - کثیر لسانی دستاویزات
+- ⚡ **اعلیٰ کارکردگی** - تلاش کے جواب کا وقت <100ms
+- 🔓 **CC0 لائسنس** - استعمال، تبدیلی اور تقسیم کے لیے مکمل طور پر مفت
+
+### 🚀 تنصیب
+
+**تقاضے:**
+- Python 3.8 یا اس سے اوپر
+- pip (Python پیکیج مینیجر)
+- 4 GB+ خالی ڈسک کی جگہ
+
+**تنصیب کی ہدایات:**
+
+**1. Repository کلون کریں:**
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+```
+
+**2. Dependencies انسٹال کریں:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. ڈیٹا فائل ڈاؤن لوڈ کریں:**
+
+`pilegal_data_v1.jsonl` (3.92 GB) ڈاؤن لوڈ کریں:
+
+📥 **ڈاؤن لوڈ لنک:** [یہاں کلک کریں](https://github.com/beydeveloper/pilegal/releases)
+
+**اہم:** ڈاؤن لوڈ کرنے کے بعد فائل کو پروجیکٹ ڈائریکٹری میں رکھیں:
+```
+pilegal/
+├── pilegal_data_v1.jsonl    ← ڈاؤن لوڈ شدہ فائل یہاں رکھیں
+├── server.py
+├── index.html
+└── ...
+```
+
+**4. سرور شروع کریں:**
+```bash
+python server.py
+```
+
+**5. براؤزر میں کھولیں:** `http://localhost:5000`
+
+### 📊 مواد کی تقسیم
+- 💻 **پروگرامنگ:** ~1.5M مضامین - Python, JavaScript, Java, C++
+- 🔐 **سائبر سیکیورٹی:** ~800K مضامین - کمزوری کا تجزیہ، دخول کی جانچ
+- 📊 **ڈیٹا سائنس:** ~600K مضامین - مشین لرننگ، AI، ڈیٹا تجزیہ
+- 🌐 **ویب ڈویلپمنٹ:** ~500K مضامین - Frontend, Backend, Full-stack
+- 🗄️ **ڈیٹا بیس:** ~300K مضامین - SQL, NoSQL، ڈیٹا ماڈلنگ
+- 🔧 **دیگر:** ~400K مضامین - نیٹ ورک، سسٹم ایڈمنسٹریشن، DevOps
+
+**کل:** 4,120,756 مضامین | **سائز:** 3.92 GB
+
+### 📄 لائسنس
+
+یہ پروجیکٹ **Creative Commons Zero v1.0 Universal (CC0 1.0)** لائسنس کے تحت لائسنس یافتہ ہے۔
+
+**اس کا کیا مطلب ہے:**
+- ✅ کوئی کاپی رائٹ نہیں - مکمل طور پر عوامی ڈومین
+- ✅ آزادانہ استعمال - ذاتی یا تجارتی استعمال
+- ✅ آزادانہ ترمیم - مشتق کام بنائیں
+- ✅ آزادانہ تقسیم - کسی کے ساتھ بھی شیئر کریں
+- ✅ حوالہ کی ضرورت نہیں - اگرچہ قدردانی کی جاتی ہے!
+
+---
+
+[⬆️ Back to top](#-pilegal)
