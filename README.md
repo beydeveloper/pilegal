@@ -272,7 +272,7 @@ Katkılarınızı bekliyoruz! İşte nasıl katkıda bulunabilirsiniz:
 
 ## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Özgürce kullanabilir, değiştirebilir ve dağıtabilirsiniz.
+Bu proje [CC0](LICENSE) altında lisanslanmıştır. Özgürce kullanabilir, değiştirebilir ve dağıtabilirsiniz.
 
 ---
 
@@ -283,7 +283,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Özgürce kullanab
     <img src="https://img.shields.io/badge/GitHub-beydeveloper-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   
-  **beydeveloper** tarafından ❤️ ile geliştirilmiştir
+  **beydeveloper** tarafından geliştirilmiştir
 </div>
 
 ---
@@ -293,9 +293,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Özgürce kullanab
 Bu projeyi kullandığınız için teşekkür ederiz! Beğendiyseniz ⭐ vermeyi unutmayın.
 
 ### İletişim
-- 🐛 Bug bildirimi: [Issues](https://github.com/beydeveloper/pilegal/issues)
-- 💡 Öneriler: [Discussions](https://github.com/beydeveloper/pilegal/discussions)
-- 📧 E-posta: [İletişim için GitHub profili](https://github.com/beydeveloper)
+- İnstagram: [İletişim için İnstagram profili](https://www.instagram.com/beydeveloper/)
 
 ---
 
@@ -304,4 +302,5 @@ Bu projeyi kullandığınız için teşekkür ederiz! Beğendiyseniz ⭐ vermeyi
   
   **PiLegal** • Özgür Bilgi Ansiklopedisi • 2025
 </div>
+
 
