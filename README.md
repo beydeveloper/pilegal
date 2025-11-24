@@ -1,6 +1,10 @@
 <div align="center">
 
-#  PiLegal Data V1
+<p align="center">
+  <img src="pilegal_logo.png" alt="PiLegal Logo" width="240"/>
+</p>
+
+# 🤖 PiLegal Data V1
 
 ### 🚀 AI Training Dataset Platform
 
@@ -220,4 +224,3 @@ python server.py
 ### 💫 Made with ❤️ by [beydeveloper](https://github.com/beydeveloper)
 
 </div>
-
