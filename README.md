@@ -40,13 +40,13 @@
 
 ## 📖 About
 
-**PiLegal** is a free, open-source knowledge encyclopedia containing **4.1+ million articles** across multiple domains including programming, cybersecurity, data science, web development, and more. Designed with a Wikipedia-style interface for ease of use.
+**PiLegal** is a free, open-source knowledge encyclopedia containing **4.1+ million articles** across multiple domains including programming, cybersecurity, data science, web development, and more.
 
 ### ✨ Features
 
 - 🔍 **Powerful Search Engine** - Instant search across 4.1M+ articles
 - 📚 **Multi-Category Content** - Programming, security, data science, and more
-- 🎨 **Wikipedia-Style UI** - Clean, user-friendly design
+- 🎨 **Clean User Interface** - User-friendly design
 - 🚀 **Fast RESTful API** - Easy integration with your applications
 - 🎲 **Random Article Discovery** - Explore random content
 - 📊 **Detailed Statistics** - Category-based analytics
@@ -219,7 +219,7 @@ GET /api/categories
 
 ## 🎨 Interface Features
 
-### Wikipedia-Style Design
+### Clean Modern Design
 - 📱 Responsive (mobile-friendly)
 - 🎯 Easy navigation
 - 🔍 Instant search
@@ -466,7 +466,7 @@ Special thanks to:
 
 - 🔍 **Güçlü Arama Motoru** - 4.1M+ makale içinde anlık arama
 - 📚 **Çok Kategorili İçerik** - Programlama, güvenlik, veri bilimi
-- 🎨 **Wikipedia Tarzı Arayüz** - Temiz, kullanıcı dostu tasarım
+- 🎨 **Temiz Arayüz** - Kullanıcı dostu tasarım
 - 🚀 **Hızlı RESTful API** - Kolay entegrasyon
 - ⚡ **Yüksek Performans** - <100ms arama süresi
 - 🔓 **CC0 Lisanslı** - Tamamen ücretsiz
@@ -528,7 +528,7 @@ python server.py  # veya: py server.py
 
 - 🔍 **Leistungsstarke Suche** - Über 4,1M+ Artikel
 - 📚 **Mehrere Kategorien** - Programmierung, Sicherheit, Datenwissenschaft
-- 🎨 **Wikipedia-Stil** - Sauberes Design
+- 🎨 **Sauberes Design** - Benutzerfreundlich
 - 🚀 **Schnelle API** - Einfache Integration
 - ⚡ **Hohe Leistung** - <100ms Antwortzeit
 - 🔓 **CC0 Lizenz** - Völlig frei
@@ -587,7 +587,7 @@ python server.py
 
 - 🔍 **Recherche Puissante** - Plus de 4,1M+ articles
 - 📚 **Multi-Catégories** - Programmation, sécurité, data science
-- 🎨 **Style Wikipedia** - Design propre
+- 🎨 **Design Moderne** - Interface propre
 - 🚀 **API Rapide** - Intégration facile
 - ⚡ **Haute Performance** - <100ms
 - 🔓 **Licence CC0** - Totalement libre
@@ -646,7 +646,7 @@ python server.py
 
 - 🔍 **Búsqueda Potente** - Más de 4,1M+ artículos
 - 📚 **Multi-Categoría** - Programación, seguridad, ciencia de datos
-- 🎨 **Estilo Wikipedia** - Diseño limpio
+- 🎨 **Diseño Moderno** - Interfaz limpia
 - 🚀 **API Rápida** - Integración fácil
 - ⚡ **Alto Rendimiento** - <100ms
 - 🔓 **Licencia CC0** - Totalmente libre
@@ -705,7 +705,7 @@ python server.py
 
 - 🔍 **Ricerca Potente** - Oltre 4,1M+ articoli
 - 📚 **Multi-Categoria** - Programmazione, sicurezza, data science
-- 🎨 **Stile Wikipedia** - Design pulito
+- 🎨 **Design Moderno** - Interfaccia pulita
 - 🚀 **API Veloce** - Integrazione facile
 - ⚡ **Alta Prestazione** - <100ms
 - 🔓 **Licenza CC0** - Completamente libero
@@ -764,7 +764,7 @@ python server.py
 
 - 🔍 **Мощный Поиск** - Более 4,1M+ статей
 - 📚 **Мульти-Категории** - Программирование, безопасность, data science
-- 🎨 **Стиль Wikipedia** - Чистый дизайн
+- 🎨 **Современный Дизайн** - Чистый интерфейс
 - 🚀 **Быстрое API** - Простая интеграция
 - ⚡ **Высокая Производительность** - <100мс
 - 🔓 **Лицензия CC0** - Полностью свободно
@@ -823,7 +823,7 @@ python server.py
 
 - 🔍 **强大搜索** - 超过410万+篇文章
 - 📚 **多类别** - 编程、安全、数据科学
-- 🎨 **维基百科风格** - 简洁设计
+- 🎨 **现代设计** - 简洁界面
 - 🚀 **快速API** - 轻松集成
 - ⚡ **高性能** - <100毫秒
 - 🔓 **CC0许可** - 完全免费
@@ -882,7 +882,7 @@ python server.py
 
 - 🔍 **強力な検索** - 410万件以上の記事
 - 📚 **マルチカテゴリ** - プログラミング、セキュリティ、データサイエンス
-- 🎨 **Wikipediaスタイル** - クリーンなデザイン
+- 🎨 **モダンなデザイン** - クリーンなインターフェース
 - 🚀 **高速API** - 簡単な統合
 - ⚡ **高性能** - <100ms
 - 🔓 **CC0ライセンス** - 完全に自由
@@ -941,7 +941,7 @@ python server.py
 
 - 🔍 **강력한 검색** - 410만개 이상의 문서
 - 📚 **다중 카테고리** - 프로그래밍, 보안, 데이터 과학
-- 🎨 **위키백과 스타일** - 깔끔한 디자인
+- 🎨 **모던 디자인** - 깔끔한 인터페이스
 - 🚀 **빠른 API** - 쉬운 통합
 - ⚡ **높은 성능** - <100ms
 - 🔓 **CC0 라이선스** - 완전히 자유
@@ -1000,7 +1000,7 @@ python server.py
 
 - 🔍 **بحث قوي** - أكثر من 4.1 مليون مقال
 - 📚 **فئات متعددة** - البرمجة، الأمان، علم البيانات
-- 🎨 **نمط ويكيبيديا** - تصميم نظيف
+- 🎨 **تصميم عصري** - واجهة نظيفة
 - 🚀 **API سريع** - تكامل سهل
 - ⚡ **أداء عالي** - <100 مللي ثانية
 - 🔓 **ترخيص CC0** - حر تماماً
@@ -1059,7 +1059,7 @@ python server.py
 
 - 🔍 **शक्तिशाली खोज** - 41 लाख+ लेख
 - 📚 **बहु-श्रेणी** - प्रोग्रामिंग, सुरक्षा, डेटा विज्ञान
-- 🎨 **विकिपीडिया शैली** - स्वच्छ डिज़ाइन
+- 🎨 **आधुनिक डिज़ाइन** - स्वच्छ इंटरफ़ेस
 - 🚀 **तेज़ API** - आसान एकीकरण
 - ⚡ **उच्च प्रदर्शन** - <100ms
 - 🔓 **CC0 लाइसेंस** - पूरी तरह मुक्त
@@ -1118,7 +1118,7 @@ python server.py
 
 - 🔍 **Busca Poderosa** - Mais de 4,1M+ artigos
 - 📚 **Multi-Categoria** - Programação, segurança, ciência de dados
-- 🎨 **Estilo Wikipedia** - Design limpo
+- 🎨 **Design Moderno** - Interface limpa
 - 🚀 **API Rápida** - Integração fácil
 - ⚡ **Alto Desempenho** - <100ms
 - 🔓 **Licença CC0** - Totalmente livre
@@ -1177,7 +1177,7 @@ python server.py
 
 - 🔍 **Krachtig Zoeken** - Meer dan 4,1M+ artikelen
 - 📚 **Multi-Categorie** - Programmeren, beveiliging, datascience
-- 🎨 **Wikipedia-Stijl** - Schoon ontwerp
+- 🎨 **Modern Ontwerp** - Schone interface
 - 🚀 **Snelle API** - Gemakkelijke integratie
 - ⚡ **Hoge Prestatie** - <100ms
 - 🔓 **CC0 Licentie** - Volledig vrij
@@ -1236,7 +1236,7 @@ python server.py
 
 - 🔍 **Potężne Wyszukiwanie** - Ponad 4,1M+ artykułów
 - 📚 **Multi-Kategoria** - Programowanie, bezpieczeństwo, data science
-- 🎨 **Styl Wikipedia** - Czysty design
+- 🎨 **Nowoczesny Design** - Czysty interfejs
 - 🚀 **Szybkie API** - Łatwa integracja
 - ⚡ **Wysoka Wydajność** - <100ms
 - 🔓 **Licencja CC0** - Całkowicie darmowe
@@ -1295,7 +1295,7 @@ python server.py
 
 - 🔍 **Kraftfull Sökning** - Över 4,1M+ artiklar
 - 📚 **Multi-Kategori** - Programmering, säkerhet, datavetenskap
-- 🎨 **Wikipedia-Stil** - Ren design
+- 🎨 **Modern Design** - Rent gränssnitt
 - 🚀 **Snabb API** - Enkel integration
 - ⚡ **Hög Prestanda** - <100ms
 - 🔓 **CC0 Licens** - Helt fri
@@ -1354,7 +1354,7 @@ python server.py
 
 - 🔍 **Kraftig Søk** - Over 4,1M+ artikler
 - 📚 **Multi-Kategori** - Programmering, sikkerhet, datavitenskap
-- 🎨 **Wikipedia-Stil** - Rent design
+- 🎨 **Moderne Design** - Rent grensesnitt
 - 🚀 **Rask API** - Enkel integrasjon
 - ⚡ **Høy Ytelse** - <100ms
 - 🔓 **CC0 Lisens** - Helt gratis
@@ -1413,7 +1413,7 @@ python server.py
 
 - 🔍 **Kraftfuld Søgning** - Over 4,1M+ artikler
 - 📚 **Multi-Kategori** - Programmering, sikkerhed, datavidenskab
-- 🎨 **Wikipedia-Stil** - Rent design
+- 🎨 **Moderne Design** - Rent interface
 - 🚀 **Hurtig API** - Let integration
 - ⚡ **Høj Ydeevne** - <100ms
 - 🔓 **CC0 Licens** - Helt gratis
@@ -1459,13 +1459,13 @@ python server.py
 
 ## 📖 Tietoja
 
-**PiLegal** on vapaa, avoimen lähdekoodin tietosanakirja, joka sisältää **yli 4,1 miljoonaa artikkelia** useilla aloilla, mukaan lukien ohjelmointi, kyberturvallisuus, datatiede, web-kehitys ja paljon muuta. Suunniteltu Wikipedia-tyylisellä käyttöliittymällä helppokäyttöisyyden takaamiseksi.
+**PiLegal** on vapaa, avoimen lähdekoodin tietosanakirja, joka sisältää **yli 4,1 miljoonaa artikkelia** useilla aloilla, mukaan lukien ohjelmointi, kyberturvallisuus, datatiede, web-kehitys ja paljon muuta.
 
 ### ✨ Ominaisuudet
 
 - 🔍 **Tehokas Hakukone** - Välitön haku yli 4,1M+ artikkelista
 - 📚 **Moniluokkainen Sisältö** - Ohjelmointi, turvallisuus, datatiede ja lisää
-- 🎨 **Wikipedia-Tyylinen Käyttöliittymä** - Puhdas, käyttäjäystävällinen suunnittelu
+- 🎨 **Moderni Käyttöliittymä** - Puhdas, käyttäjäystävällinen suunnittelu
 - 🚀 **Nopea RESTful API** - Helppo integrointi sovelluksiisi
 - 🎲 **Satunnaisten Artikkelien Löytäminen** - Tutustu satunnaiseen sisältöön
 - 📊 **Yksityiskohtaiset Tilastot** - Luokkakohtainen analytiikka
@@ -1542,13 +1542,13 @@ Tämä projekti on lisensoitu **Creative Commons Zero v1.0 Universal (CC0 1.0)**
 
 ## 📖 Σχετικά με το Έργο
 
-**PiLegal** είναι μια ελεύθερη εγκυκλοπαίδεια ανοιχτού κώδικα που περιέχει **πάνω από 4,1 εκατομμύρια άρθρα** σε διάφορους τομείς, συμπεριλαμβανομένου του προγραμματισμού, της κυβερνοασφάλειας, της επιστήμης δεδομένων, της ανάπτυξης ιστού και πολλά άλλα. Σχεδιασμένη με διεπαφή τύπου Wikipedia για ευκολία χρήσης.
+**PiLegal** είναι μια ελεύθερη εγκυκλοπαίδεια ανοιχτού κώδικα που περιέχει **πάνω από 4,1 εκατομμύρια άρθρα** σε διάφορους τομείς, συμπεριλαμβανομένου του προγραμματισμού, της κυβερνοασφάλειας, της επιστήμης δεδομένων, της ανάπτυξης ιστού και πολλά άλλα.
 
 ### ✨ Χαρακτηριστικά
 
 - 🔍 **Ισχυρή Μηχανή Αναζήτησης** - Άμεση αναζήτηση σε 4,1M+ άρθρα
 - 📚 **Περιεχόμενο Πολλαπλών Κατηγοριών** - Προγραμματισμός, ασφάλεια, επιστήμη δεδομένων
-- 🎨 **Διεπαφή Τύπου Wikipedia** - Καθαρός, φιλικός προς το χρήστη σχεδιασμός
+- 🎨 **Μοντέρνα Διεπαφή** - Καθαρός, φιλικός προς το χρήστη σχεδιασμός
 - 🚀 **Γρήγορο RESTful API** - Εύκολη ενσωμάτωση με τις εφαρμογές σας
 - 🎲 **Ανακάλυψη Τυχαίων Άρθρων** - Εξερευνήστε τυχαίο περιεχόμενο
 - 📊 **Λεπτομερή Στατιστικά** - Ανάλυση βάσει κατηγορίας
@@ -1625,13 +1625,13 @@ python server.py
 
 ## 📖 O Projektu
 
-**PiLegal** je svobodná encyklopedie s otevřeným zdrojovým kódem obsahující **více než 4,1 milionu článků** v různých oblastech včetně programování, kybernetické bezpečnosti, datové vědy, webového vývoje a mnoha dalších. Navržena s rozhraním ve stylu Wikipedie pro snadné použití.
+**PiLegal** je svobodná encyklopedie s otevřeným zdrojovým kódem obsahující **více než 4,1 milionu článků** v různých oblastech včetně programování, kybernetické bezpečnosti, datové vědy, webového vývoje a mnoha dalších.
 
 ### ✨ Funkce
 
 - 🔍 **Výkonný Vyhledávač** - Okamžité vyhledávání ve více než 4,1M+ článcích
 - 📚 **Víceúrovňový Obsah** - Programování, bezpečnost, datová věda a další
-- 🎨 **Rozhraní ve Stylu Wikipedie** - Čistý, uživatelsky přívětivý design
+- 🎨 **Moderní Rozhraní** - Čistý, uživatelsky přívětivý design
 - 🚀 **Rychlé RESTful API** - Snadná integrace s vašimi aplikacemi
 - 🎲 **Objevování Náhodných Článků** - Prozkoumejte náhodný obsah
 - 📊 **Podrobné Statistiky** - Analýza založená na kategoriích
@@ -1708,13 +1708,13 @@ Tento projekt je licencován pod licencí **Creative Commons Zero v1.0 Universal
 
 ## 📖 A Projektről
 
-**PiLegal** egy szabad, nyílt forráskódú tudásenciklopédia, amely **több mint 4,1 millió cikket** tartalmaz különböző területeken, beleértve a programozást, kiberbiztonsági, adattudományt, webfejlesztést és még sok mást. Wikipédia stílusú felülettel tervezve a könnyű használat érdekében.
+**PiLegal** egy szabad, nyílt forráskódú tudásenciklopédia, amely **több mint 4,1 millió cikket** tartalmaz különböző területeken, beleértve a programozást, kiberbiztonsági, adattudományt, webfejlesztést és még sok mást.
 
 ### ✨ Jellemzők
 
 - 🔍 **Erőteljes Keresőmotor** - Azonnali keresés több mint 4,1M+ cikkben
 - 📚 **Többkategóriás Tartalom** - Programozás, biztonság, adattudomány és több
-- 🎨 **Wikipédia Stílusú Felület** - Tiszta, felhasználóbarát dizájn
+- 🎨 **Modern Felület** - Tiszta, felhasználóbarát dizájn
 - 🚀 **Gyors RESTful API** - Könnyű integráció az alkalmazásaival
 - 🎲 **Véletlenszerű Cikkek Felfedezése** - Fedezzen fel véletlenszerű tartalmat
 - 📊 **Részletes Statisztikák** - Kategória alapú elemzés
@@ -1791,13 +1791,13 @@ Ez a projekt a **Creative Commons Zero v1.0 Universal (CC0 1.0)** licenc alatt v
 
 ## 📖 Despre Proiect
 
-**PiLegal** este o enciclopedie liberă cu sursă deschisă care conține **peste 4,1 milioane de articole** în diverse domenii, inclusiv programare, securitate cibernetică, știința datelor, dezvoltare web și multe altele. Proiectată cu o interfață în stil Wikipedia pentru ușurință în utilizare.
+**PiLegal** este o enciclopedie liberă cu sursă deschisă care conține **peste 4,1 milioane de articole** în diverse domenii, inclusiv programare, securitate cibernetică, știința datelor, dezvoltare web și multe altele.
 
 ### ✨ Caracteristici
 
 - 🔍 **Motor de Căutare Puternic** - Căutare instantanee în peste 4,1M+ articole
 - 📚 **Conținut Multi-Categorie** - Programare, securitate, știința datelor și mai mult
-- 🎨 **Interfață în Stil Wikipedia** - Design curat, prietenos cu utilizatorul
+- 🎨 **Interfață Modernă** - Design curat, prietenos cu utilizatorul
 - 🚀 **API RESTful Rapid** - Integrare ușoară cu aplicațiile dumneavoastră
 - 🎲 **Descoperirea Articolelor Aleatorii** - Explorați conținut aleatoriu
 - 📊 **Statistici Detaliate** - Analiză bazată pe categorii
@@ -1874,13 +1874,13 @@ Acest proiect este licențiat sub licența **Creative Commons Zero v1.0 Universa
 
 ## 📖 Про Проект
 
-**PiLegal** - це вільна енциклопедія з відкритим вихідним кодом, що містить **понад 4,1 мільйона статей** у різних галузях, включаючи програмування, кібербезпеку, науку про дані, веб-розробку та багато іншого. Розроблена з інтерфейсом у стилі Вікіпедії для зручності використання.
+**PiLegal** - це вільна енциклопедія з відкритим вихідним кодом, що містить **понад 4,1 мільйона статей** у різних галузях, включаючи програмування, кібербезпеку, науку про дані, веб-розробку та багато іншого.
 
 ### ✨ Можливості
 
 - 🔍 **Потужна Пошукова Система** - Миттєвий пошук серед понад 4,1M+ статей
 - 📚 **Багатокатегорійний Контент** - Програмування, безпека, наука про дані та більше
-- 🎨 **Інтерфейс у Стилі Вікіпедії** - Чистий, зручний дизайн
+- 🎨 **Сучасний Інтерфейс** - Чистий, зручний дизайн
 - 🚀 **Швидке RESTful API** - Легка інтеграція з вашими додатками
 - 🎲 **Відкриття Випадкових Статей** - Досліджуйте випадковий контент
 - 📊 **Детальна Статистика** - Аналіз на основі категорій
@@ -1957,13 +1957,13 @@ python server.py
 
 ## 📖 Tentang
 
-**PiLegal** adalah ensiklopedia pengetahuan bebas dan open-source yang berisi **lebih dari 4,1 juta artikel** di berbagai bidang termasuk pemrograman, keamanan siber, ilmu data, pengembangan web, dan banyak lagi. Dirancang dengan antarmuka bergaya Wikipedia untuk kemudahan penggunaan.
+**PiLegal** adalah ensiklopedia pengetahuan bebas dan open-source yang berisi **lebih dari 4,1 juta artikel** di berbagai bidang termasuk pemrograman, keamanan siber, ilmu data, pengembangan web, dan banyak lagi.
 
 ### ✨ Fitur
 
 - 🔍 **Mesin Pencari Kuat** - Pencarian instan di lebih dari 4,1M+ artikel
 - 📚 **Konten Multi-Kategori** - Pemrograman, keamanan, ilmu data, dan lebih banyak lagi
-- 🎨 **Antarmuka Bergaya Wikipedia** - Desain bersih dan ramah pengguna
+- 🎨 **Antarmuka Modern** - Desain bersih dan ramah pengguna
 - 🚀 **RESTful API Cepat** - Integrasi mudah dengan aplikasi Anda
 - 🎲 **Penemuan Artikel Acak** - Jelajahi konten acak
 - 📊 **Statistik Terperinci** - Analitik berbasis kategori
@@ -2040,13 +2040,13 @@ Proyek ini dilisensikan di bawah lisensi **Creative Commons Zero v1.0 Universal 
 
 ## 📖 เกี่ยวกับโครงการ
 
-**PiLegal** เป็นสารานุกรมความรู้เสรีและโอเพนซอร์สที่มี**บทความมากกว่า 4.1 ล้านบทความ**ในหลากหลายสาขา รวมถึงการเขียนโปรแกรม ความปลอดภัยทางไซเบอร์ วิทยาศาสตร์ข้อมูล การพัฒนาเว็บ และอื่นๆ อีกมากมาย ออกแบบด้วยอินเทอร์เฟซสไตล์วิกิพีเดียเพื่อความสะดวกในการใช้งาน
+**PiLegal** เป็นสารานุกรมความรู้เสรีและโอเพนซอร์สที่มี**บทความมากกว่า 4.1 ล้านบทความ**ในหลากหลายสาขา รวมถึงการเขียนโปรแกรม ความปลอดภัยทางไซเบอร์ วิทยาศาสตร์ข้อมูล การพัฒนาเว็บ และอื่นๆ อีกมากมาย
 
 ### ✨ คุณสมบัติ
 
 - 🔍 **เครื่องมือค้นหาที่ทรงพลัง** - ค้นหาทันทีในบทความมากกว่า 4.1M+
 - 📚 **เนื้อหาหลายหมวดหมู่** - การเขียนโปรแกรม ความปลอดภัย วิทยาศาสตร์ข้อมูล และอื่นๆ
-- 🎨 **อินเทอร์เฟซสไตล์วิกิพีเดีย** - การออกแบบที่สะอาดและเป็นมิตรกับผู้ใช้
+- 🎨 **อินเทอร์เฟซทันสมัย** - การออกแบบที่สะอาดและเป็นมิตรกับผู้ใช้
 - 🚀 **RESTful API ที่รวดเร็ว** - บูรณาการได้ง่ายกับแอปพลิเคชันของคุณ
 - 🎲 **การค้นพบบทความแบบสุ่ม** - สำรวจเนื้อหาแบบสุ่ม
 - 📊 **สถิติโดยละเอียด** - การวิเคราะห์ตามหมวดหมู่
@@ -2123,13 +2123,13 @@ python server.py
 
 ## 📖 Giới Thiệu
 
-**PiLegal** là một bách khoa toàn thư tri thức miễn phí và mã nguồn mở chứa **hơn 4,1 triệu bài viết** về nhiều lĩnh vực khác nhau bao gồm lập trình, an ninh mạng, khoa học dữ liệu, phát triển web và nhiều hơn nữa. Được thiết kế với giao diện theo phong cách Wikipedia để dễ sử dụng.
+**PiLegal** là một bách khoa toàn thư tri thức miễn phí và mã nguồn mở chứa **hơn 4,1 triệu bài viết** về nhiều lĩnh vực khác nhau bao gồm lập trình, an ninh mạng, khoa học dữ liệu, phát triển web và nhiều hơn nữa.
 
 ### ✨ Tính Năng
 
 - 🔍 **Công Cụ Tìm Kiếm Mạnh Mẽ** - Tìm kiếm tức thì trong hơn 4,1M+ bài viết
 - 📚 **Nội Dung Đa Danh Mục** - Lập trình, bảo mật, khoa học dữ liệu và nhiều hơn nữa
-- 🎨 **Giao Diện Phong Cách Wikipedia** - Thiết kế sạch sẽ, thân thiện với người dùng
+- 🎨 **Giao Diện Hiện Đại** - Thiết kế sạch sẽ, thân thiện với người dùng
 - 🚀 **RESTful API Nhanh** - Tích hợp dễ dàng với ứng dụng của bạn
 - 🎲 **Khám Phá Bài Viết Ngẫu Nhiên** - Khám phá nội dung ngẫu nhiên
 - 📊 **Thống Kê Chi Tiết** - Phân tích dựa trên danh mục
@@ -2206,13 +2206,13 @@ Dự án này được cấp phép theo giấy phép **Creative Commons Zero v1.
 
 ## 📖 درباره پروژه
 
-**PiLegal** یک دانشنامه دانش آزاد و منبع باز است که **بیش از 4.1 میلیون مقاله** در زمینه‌های مختلف از جمله برنامه‌نویسی، امنیت سایبری، علم داده، توسعه وب و موارد دیگر دارد. با رابط کاربری به سبک ویکی‌پدیا برای سهولت استفاده طراحی شده است.
+**PiLegal** یک دانشنامه دانش آزاد و منبع باز است که **بیش از 4.1 میلیون مقاله** در زمینه‌های مختلف از جمله برنامه‌نویسی، امنیت سایبری، علم داده، توسعه وب و موارد دیگر دارد.
 
 ### ✨ ویژگی‌ها
 
 - 🔍 **موتور جستجوی قدرتمند** - جستجوی فوری در بیش از 4.1M+ مقاله
 - 📚 **محتوای چند دسته‌ای** - برنامه‌نویسی، امنیت، علم داده و بیشتر
-- 🎨 **رابط کاربری به سبک ویکی‌پدیا** - طراحی تمیز و کاربرپسند
+- 🎨 **رابط کاربری مدرن** - طراحی تمیز و کاربرپسند
 - 🚀 **API RESTful سریع** - یکپارچه‌سازی آسان با برنامه‌های شما
 - 🎲 **کشف مقالات تصادفی** - محتوای تصادفی را کاوش کنید
 - 📊 **آمار دقیق** - تحلیل بر اساس دسته‌بندی
@@ -2295,7 +2295,7 @@ python server.py
 
 - 🔍 **طاقتور تلاش کا انجن** - 4.1M+ مضامین میں فوری تلاش
 - 📚 **کثیر زمرہ مواد** - پروگرامنگ، سیکیورٹی، ڈیٹا سائنس اور مزید
-- 🎨 **وکی پیڈیا طرز کا انٹرفیس** - صاف، صارف دوست ڈیزائن
+- 🎨 **جدید انٹرفیس** - صاف، صارف دوست ڈیزائن
 - 🚀 **تیز RESTful API** - آپ کی ایپلیکیشنز کے ساتھ آسان انضمام
 - 🎲 **بے ترتیب مضامین کی دریافت** - بے ترتیب مواد دریافت کریں
 - 📊 **تفصیلی اعدادوشمار** - زمرہ پر مبنی تجزیات
