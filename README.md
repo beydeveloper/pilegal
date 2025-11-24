@@ -9,7 +9,7 @@
 ### 🚀 AI Training Dataset Platform
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Data](https://img.shields.io/badge/Dataset-4.1M-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/beydeveloper/pilegal)
+[![Data](https://img.shields.io/badge/Dataset-4.1M-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/beydeveloper/pilegal/releases/download/data/pilegal_data_v1.zip)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beydeveloper/)
 
 ```ascii
@@ -67,9 +67,12 @@ This data and software are intended for AI developers and for training my own AI
 # Install required libraries
 pip install requirements.txt
 
-# Run the server
+# After downloading the data, configure the file directory in server.py
+# Then run the server
 python server.py
 ```
+
+> ⚠️ **Important:** [Click here to download the data](https://github.com/beydeveloper/pilegal/releases/download/data/pilegal_data_v1.zip). After downloading, make sure to set the file directory path in `server.py` before you can start querying.
 
 <div align="center">
 
@@ -91,7 +94,7 @@ python server.py
 
 </div>
 
-Bu data ve yazılım ai geliştirenler ve kendi geliştirmekte olduğum ai modelinin eğitimi için kullanmayı amaçlıyorum aynı zamanda yazılım geliştiriciler buradaki büyük yazılım projesinde deneyim kazanabilirler
+Bu data ve yazılım ai geliştirenler ve kendi geliştirmekte olduğum ai modelinin eğitimi için kullanmayı amaçlıyorum aynı zamanda yazılım geliştiriciler buradaki büyük yazılım projesinde deneyim kazanabilir.
 
 <div align="center">
 
@@ -111,9 +114,12 @@ Bu data ve yazılım ai geliştirenler ve kendi geliştirmekte olduğum ai model
 # Gerekli kütüphaneleri yükle
 pip install requirements.txt
 
-# Sunucuyu çalıştır
+# Datayı indirdikten sonra server.py'dan dosya dizinini ayarlayın
+# Ardından sunucuyu çalıştırın
 python server.py
 ```
+
+> ⚠️ **Önemli:** [Datayı indirmek için tıklayın](https://github.com/beydeveloper/pilegal/releases/download/data/pilegal_data_v1.zip). Datayı indirdikten sonra sorgu atabilmeniz için `server.py` dosyasından dosya dizini yolunu ayarlamayı unutmayın.
 
 <div align="center">
 
@@ -137,7 +143,7 @@ python server.py
 
 </div>
 
-هذه البيانات والبرمجيات مخصصة لمطوري الذكاء الاصطناعي ولتدريب نموذج الذكاء الاصطناعي الخاص بي الذي أقوم بتطويره حالياً. بالإضافة إلى ذلك، يمكن لمطوري البرمجيات اكتساب الخبرة في هذا المشروع البرمجي الكبير.
+هذه البيانات والبرمجيات مخصصة لمطوري الذكاء الاصطناعي ولتدريب نموذج الذكاء الاصطناعي الخاص بي الذي أقوم بتطويره حاليًا. بالإضافة إلى ذلك، يمكن لمطوري البرمجيات اكتساب الخبرة في هذا المشروع البرمجي واسع النطاق.
 
 <div align="center">
 
@@ -157,9 +163,12 @@ python server.py
 # تثبيت المكتبات المطلوبة
 pip install requirements.txt
 
-# تشغيل الخادم
+# بعد تنزيل البيانات، قم بتكوين دليل الملفات في server.py
+# ثم قم بتشغيل الخادم
 python server.py
 ```
+
+> ⚠️ **مهم:** [انقر هنا لتنزيل البيانات](https://github.com/beydeveloper/pilegal/releases/download/data/pilegal_data_v1.zip). بعد تنزيل البيانات، تأكد من تعيين مسار دليل الملف في `server.py` قبل أن تتمكن من بدء الاستعلام.
 
 <div align="center">
 
@@ -183,7 +192,7 @@ python server.py
 
 </div>
 
-Эти данные и программное обеспечение предназначены для разработчиков искусственного интеллекта и для обучения моей собственной модели ИИ, которую я в настоящее время разрабатываю. Кроме того, разработчики программного обеспечения могут получить опыт в этом крупномасштабном программном проекте.
+Эти данные и программное обеспечение предназначены для разработчиков искусственного интеллекта и для обучения моей собственной модели ИИ, которую я сейчас разрабатываю. Кроме того, разработчики программного обеспечения могут получить опыт в этом крупномасштабном программном проекте.
 
 <div align="center">
 
@@ -203,9 +212,12 @@ python server.py
 # Установите необходимые библиотеки
 pip install requirements.txt
 
-# Запустите сервер
+# После загрузки данных настройте каталог файлов в server.py
+# Затем запустите сервер
 python server.py
 ```
+
+> ⚠️ **Важно:** [Нажмите здесь, чтобы загрузить данные](https://github.com/beydeveloper/pilegal/releases/download/data/pilegal_data_v1.zip). После загрузки данных обязательно укажите путь к каталогу файлов в `server.py`, прежде чем начать выполнение запросов.
 
 <div align="center">
 
@@ -224,4 +236,3 @@ python server.py
 ### 💫 Made with ❤️ by [beydeveloper](https://github.com/beydeveloper)
 
 </div>
-
