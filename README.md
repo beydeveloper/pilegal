@@ -234,22 +234,7 @@ GET /api/categories
 
 ---
 
-## 🗂️ Project Structure
 
-```
-pilegal/
-├── server.py                    # Flask backend with optimized search
-├── index.html                   # Main interface (Wikipedia-style)
-├── pilegal.png                  # Logo
-├── pilegal_data_v1.jsonl        # Main data file (3.92 GB)
-├── requirements.txt             # Python dependencies
-├── START_SERVER.bat            # Windows startup script
-├── LICENSE                      # CC0 1.0 Universal License
-├── README.md                    # This file
-├── QUICKSTART.md               # Quick start guide
-├── CONTRIBUTING.md             # Contribution guidelines
-└── .gitignore                  # Git ignore rules
-```
 
 ---
 
@@ -269,7 +254,7 @@ Each article is in JSONL format:
 ### Performance
 
 - **Loading Time:** ~40 seconds (4.1M records with indexing)
-- **RAM Usage:** ~2-3 GB
+- **RAM Usage:** ~0-2 GB
 - **Search Speed:** <100ms average (with hash-based indexing)
 - **Index Build:** Automatic on startup
 
@@ -291,23 +276,6 @@ You can modify these parameters in `server.py`:
 
 ---
 
-## 📚 Data Sources
-
-PiLegal was created by combining open-source datasets:
-- OpenOrca GPT-4
-- ShareGPT Vicuna
-- OpenAssistant
-- Alpaca Dataset
-- Dolly-15K
-- Code Alpaca
-- SQL Context Dataset
-- MITRE ATT&CK
-- CWE Database
-- And many more...
-
-All content is aggregated from publicly available datasets and is provided under CC0 1.0 Universal License.
-
----
 
 ## 🤝 Contributing
 
@@ -382,10 +350,7 @@ Thank you for using PiLegal! If you find it helpful:
 - 💖 Contribute to the project
 
 ### Contact
-- 🐛 Bug reports: [GitHub Issues](https://github.com/beydeveloper/pilegal/issues)
-- 💡 Feature requests: [GitHub Discussions](https://github.com/beydeveloper/pilegal/discussions)
-- 📧 Email: [GitHub Profile](https://github.com/beydeveloper)
-
+- 📧 İnstagram: [İnstagram Profile](https://www.instagram.com/beydeveloper/)
 ---
 
 ## 🎯 Roadmap
@@ -420,13 +385,6 @@ Thank you for using PiLegal! If you find it helpful:
 
 ---
 
-## 🔗 Related Projects
-
-- [Wikipedia](https://www.wikipedia.org/) - The original encyclopedia everyone can edit
-- [DBpedia](https://www.dbpedia.org/) - Structured data from Wikipedia
-- [Wikidata](https://www.wikidata.org/) - Free knowledge base
-- [OpenAI Datasets](https://github.com/openai) - AI training datasets
-
 ---
 
 ## 🙏 Acknowledgments
@@ -449,7 +407,7 @@ Special thanks to:
   
   ---
   
-  Made with ❤️ for the global knowledge commons
+  
   
 </div>
 
@@ -2369,5 +2327,6 @@ python server.py
 ---
 
 [⬆️ Back to top](#-pilegal)
+
 
 
