@@ -19,7 +19,7 @@
 
 ## 📖 Hakkında
 
-**PiLegal**, Wikipedia tarzında tasarlanmış, 4.1+ milyon makale içeren özgür bir bilgi ansiklopedisidir. Programlama, siber güvenlik, veri bilimi, web geliştirme ve daha birçok alanda detaylı bilgi sunar.
+**PiLegal** 4.1+ milyon makale içeren özgür bir bilgi ansiklopedisidir. Programlama, siber güvenlik, veri bilimi, web geliştirme ve daha birçok alanda detaylı bilgi sunar.
 
 ### ✨ Özellikler
 
@@ -304,3 +304,4 @@ Bu projeyi kullandığınız için teşekkür ederiz! Beğendiyseniz ⭐ vermeyi
   
   **PiLegal** • Özgür Bilgi Ansiklopedisi • 2025
 </div>
+
