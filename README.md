@@ -17,7 +17,7 @@
 
 ---
 
-## 🌍 Available in 30 Languages
+## 🌍 Available in 29 Languages
 
 <details open>
 <summary><b>📖 Read this page in your language</b></summary>
@@ -30,7 +30,7 @@
 
 ### [🇫🇮 Suomi](#-suomi) | [🇬🇷 Ελληνικά](#-ελληνικά) | [🇨🇿 Čeština](#-čeština) | [🇭🇺 Magyar](#-magyar) | [🇷🇴 Română](#-română) | [🇺🇦 Українська](#-українська)
 
-### [🇮🇱 עברית](#-עברית) | [🇮🇩 Indonesia](#-indonesia) | [🇹🇭 ไทย](#-ไทย) | [🇻🇳 Tiếng Việt](#-tiếng-việt) | [🇮🇷 فارسی](#-فارسی) | [🇵🇰 اردو](#-اردو)
+### [🇮🇩 Indonesia](#-indonesia) | [🇹🇭 ไทย](#-ไทย) | [🇻🇳 Tiếng Việt](#-tiếng-việt) | [🇮🇷 فارسی](#-فارسی) | [🇵🇰 اردو](#-اردو)
 
 </details>
 
@@ -1036,110 +1036,110 @@ python server.py
 
 ## 📖 Tietoja
 
-**PiLegal** on vapaa tietosanakirja, jossa on **4,1+ miljoonaa artikkelia** ohjelmoinnista, kyberturvallisuudesta, datatiedestä, web-kehityksestä ja muusta.
+**PiLegal** on vapaa, avoimen lähdekoodin tietosanakirja, joka sisältää **yli 4,1 miljoonaa artikkelia** useilla aloilla, mukaan lukien ohjelmointi, kyberturvallisuus, datatiede, web-kehitys ja paljon muuta. Suunniteltu Wikipedia-tyylisellä käyttöliittymällä helppokäyttöisyyden takaamiseksi.
 
 ### ✨ Ominaisuudet
 
-- 🔍 **Tehokas Haku** - Yli 4,1M+ artikkelia
-- 📚 **Moni-Kategoria** - Ohjelmointi, turvallisuus, datatiede
-- 🚀 **Nopea API** - Helppo integrointi
-- 🔓 **CC0 Lisenssi** - Täysin ilmainen
+- 🔍 **Tehokas Hakukone** - Välitön haku yli 4,1M+ artikkelista
+- 📚 **Moniluokkainen Sisältö** - Ohjelmointi, turvallisuus, datatiede ja lisää
+- 🎨 **Wikipedia-Tyylinen Käyttöliittymä** - Puhdas, käyttäjäystävällinen suunnittelu
+- 🚀 **Nopea RESTful API** - Helppo integrointi sovelluksiisi
+- 🎲 **Satunnaisten Artikkelien Löytäminen** - Tutustu satunnaiseen sisältöön
+- 📊 **Yksityiskohtaiset Tilastot** - Luokkakohtainen analytiikka
+- 🌐 **29 Kieltä** - Monikielinen dokumentaatio
+- ⚡ **Korkea Suorituskyky** - <100ms hakuvastausaika
+- 🔓 **CC0-Lisensoitu** - Täysin ilmainen käyttää, muokata ja levittää
+
+### 🚀 Asennus
+
+**Vaatimukset:**
+- Python 3.8 tai uudempi
+- pip (Python-paketinhallinta)
+- 4 GB+ vapaata levytilaa
+
+**Asennusohjeet:**
+
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+pip install -r requirements.txt
+python server.py
+```
+
+Avaa selaimessa: `http://localhost:5000`
+
+### 📊 Sisältöjakauma
+- 💻 **Ohjelmointi:** ~1,5M artikkelia - Python, JavaScript, Java, C++
+- 🔐 **Kyberturvallisuus:** ~800K artikkelia - Haavoittuvuusanalyysi, tunkeutumistestaus
+- 📊 **Datatiede:** ~600K artikkelia - Koneoppiminen, tekoäly, data-analyysi
+- 🌐 **Web-Kehitys:** ~500K artikkelia - Frontend, Backend, Full-stack
+- 🗄️ **Tietokanta:** ~300K artikkelia - SQL, NoSQL, tietomallinnus
+- 🔧 **Muut:** ~400K artikkelia - Verkko, järjestelmähallinta, DevOps
+
+**Yhteensä:** 4 120 756 artikkelia | **Koko:** 3,92 GB
+
+### 📄 Lisenssi
+
+Tämä projekti on lisensoitu **Creative Commons Zero v1.0 Universal (CC0 1.0)** -lisenssillä.
+
+**Mitä tämä tarkoittaa:**
+- ✅ Ei tekijänoikeuksia - Täysin julkinen
+- ✅ Käytä vapaasti - Henkilökohtaiseen tai kaupalliseen käyttöön
+- ✅ Muokkaa vapaasti - Luo johdannaisteoksia
+- ✅ Levitä vapaasti - Jaa kenen tahansa kanssa
+- ✅ Nimeämistä ei vaadita - Vaikka arvostetaan!
 
 ---
 
 ## 🇬🇷 Ελληνικά
 
-## 📖 Σχετικά
+## 📖 Σχετικά με το Έργο
 
-**PiLegal** είναι μια ελεύθερη εγκυκλοπαίδεια με **4,1+ εκατομμύρια άρθρα** για προγραμματισμό, κυβερνοασφάλεια, επιστήμη δεδομένων και περισσότερα.
+**PiLegal** είναι μια ελεύθερη εγκυκλοπαίδεια ανοιχτού κώδικα που περιέχει **πάνω από 4,1 εκατομμύρια άρθρα** σε διάφορους τομείς, συμπεριλαμβανομένου του προγραμματισμού, της κυβερνοασφάλειας, της επιστήμης δεδομένων, της ανάπτυξης ιστού και πολλά άλλα. Σχεδιασμένη με διεπαφή τύπου Wikipedia για ευκολία χρήσης.
 
----
+### ✨ Χαρακτηριστικά
 
-## 🇨🇿 Čeština
+- 🔍 **Ισχυρή Μηχανή Αναζήτησης** - Άμεση αναζήτηση σε 4,1M+ άρθρα
+- 📚 **Περιεχόμενο Πολλαπλών Κατηγοριών** - Προγραμματισμός, ασφάλεια, επιστήμη δεδομένων
+- 🎨 **Διεπαφή Τύπου Wikipedia** - Καθαρός, φιλικός προς το χρήστη σχεδιασμός
+- 🚀 **Γρήγορο RESTful API** - Εύκολη ενσωμάτωση με τις εφαρμογές σας
+- 🎲 **Ανακάλυψη Τυχαίων Άρθρων** - Εξερευνήστε τυχαίο περιεχόμενο
+- 📊 **Λεπτομερή Στατιστικά** - Ανάλυση βάσει κατηγορίας
+- 🌐 **29 Γλώσσες** - Πολύγλωσση τεκμηρίωση
+- ⚡ **Υψηλή Απόδοση** - Χρόνος απόκρισης αναζήτησης <100ms
+- 🔓 **Άδεια CC0** - Εντελώς ελεύθερο για χρήση, τροποποίηση και διανομή
 
-## 📖 O Projektu
+### 🚀 Εγκατάσταση
 
-**PiLegal** je svobodná encyklopedie s **4,1+ miliony článků** o programování, kybernetické bezpečnosti, datové vědě a více.
+**Απαιτήσεις:**
+- Python 3.8 ή νεότερη έκδοση
+- pip (διαχειριστής πακέτων Python)
+- 4 GB+ ελεύθερος χώρος στο δίσκο
 
----
+**Οδηγίες Εγκατάστασης:**
 
-## 🇭🇺 Magyar
+```bash
+git clone https://github.com/beydeveloper/pilegal.git
+cd pilegal
+pip install -r requirements.txt
+python server.py
+```
 
-## 📖 Rólunk
+Ανοίξτε στο πρόγραμμα περιήγησης: `http://localhost:5000`
 
-**PiLegal** egy szabad enciklopédia **4,1+ millió cikkel** programozásról, kiberbiztonságról, adattudományról és még sokról.
+### 📊 Κατανομή Περιεχομένου
+- 💻 **Προγραμματισμός:** ~1,5M άρθρα - Python, JavaScript, Java, C++
+- 🔐 **Κυβερνοασφάλεια:** ~800K άρθρα - Ανάλυση ευπαθειών, δοκιμές διείσδυσης
+- 📊 **Επιστήμη Δεδομένων:** ~600K άρθρα - Μηχανική μάθηση, τεχνητή νοημοσύνη
+- 🌐 **Ανάπτυξη Ιστού:** ~500K άρθρα - Frontend, Backend, Full-stack
+- 🗄️ **Βάσεις Δεδομένων:** ~300K άρθρα - SQL, NoSQL, μοντελοποίηση δεδομένων
+- 🔧 **Άλλα:** ~400K άρθρα - Δίκτυα, διαχείριση συστημάτων, DevOps
 
----
+**Σύνολο:** 4.120.756 άρθρα | **Μέγεθος:** 3,92 GB
 
-## 🇷🇴 Română
+### 📄 Άδεια Χρήσης
 
-## 📖 Despre
+Αυτό το έργο είναι αδειοδοτημένο με την άδεια **Creative Commons Zero v1.0 Universal (CC0 1.0)**.
 
-**PiLegal** este o enciclopedie liberă cu **4,1+ milioane de articole** despre programare, securitate cibernetică, știința datelor și mai mult.
-
----
-
-## 🇺🇦 Українська
-
-## 📖 Про Проект
-
-**PiLegal** - вільна енциклопедія з **4,1+ мільйона статей** про програмування, кібербезпеку, науку про дані та багато іншого.
-
----
-
-## 🇮🇱 עברית
-
-## 📖 אודות
-
-**PiLegal** היא אנציקלופדיה חופשית עם **4.1+ מיליון מאמרים** על תכנות, אבטחת סייבר, מדע הנתונים ועוד.
-
----
-
-## 🇮🇩 Indonesia
-
-## 📖 Tentang
-
-**PiLegal** adalah ensiklopedia bebas dengan **4,1+ juta artikel** tentang pemrograman, keamanan siber, ilmu data, pengembangan web dan lainnya.
-
-### ✨ Fitur
-
-- 🔍 **Pencarian Kuat** - Lebih dari 4,1M+ artikel
-- 📚 **Multi-Kategori** - Pemrograman, keamanan, ilmu data
-- 🚀 **API Cepat** - Integrasi mudah
-- 🔓 **Lisensi CC0** - Sepenuhnya gratis
-
----
-
-## 🇹🇭 ไทย
-
-## 📖 เกี่ยวกับ
-
-**PiLegal** เป็นสารานุกรมเสรีที่มี**บทความมากกว่า 4.1 ล้าน**เกี่ยวกับการเขียนโปรแกรม ความปลอดภัยทางไซเบอร์ วิทยาศาสตร์ข้อมูล และอื่นๆ
-
----
-
-## 🇻🇳 Tiếng Việt
-
-## 📖 Giới Thiệu
-
-**PiLegal** là bách khoa toàn thư mở với **hơn 4,1 triệu bài viết** về lập trình, an ninh mạng, khoa học dữ liệu và nhiều hơn nữa.
-
----
-
-## 🇮🇷 فارسی
-
-## 📖 درباره
-
-**PiLegal** یک دانشنامه آزاد با **بیش از 4.1 میلیون مقاله** در مورد برنامه‌نویسی، امنیت سایبری، علم داده و موارد دیگر است.
-
----
-
-## 🇵🇰 اردو
-
-## 📖 تعارف
-
-**PiLegal** ایک آزاد دائرۃ المعارف ہے جس میں پروگرامنگ، سائبر سیکیورٹی، ڈیٹا سائنس اور مزید کے بارے میں **41 لاکھ سے زیادہ مضامین** ہیں۔
-
----
-
-[⬆️ Back to top](#-pilegal)
+**Τι σημαίνει αυτό:**
+- ✅ Χωρίς πνευματικά δικαιώματα - Εντελώς στο δημόσιο τομέα
